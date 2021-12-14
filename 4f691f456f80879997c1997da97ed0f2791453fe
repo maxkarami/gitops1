@@ -1,0 +1,1 @@
+{"jobID":"9fa7c0b9-ea9c-7c9f-34ca-b9e107041f40","spec":{"type":"policy","cause":{"Message":"","User":"Max \u003cmax.karami@offis.com.au\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
